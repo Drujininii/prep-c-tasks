@@ -1,0 +1,3 @@
+g++ -c main.cpp library.cpp
+g++ main.o library.o -o dz4
+
